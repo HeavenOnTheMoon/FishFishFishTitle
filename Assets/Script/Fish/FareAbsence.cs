@@ -241,7 +241,7 @@ public class FareAbsence : MonoBehaviour
     public void EuropeFareSeep(int fishTankIndex)
     {
         int oldTankIndex = TreeTwigAbsence.GetInt(CSoviet.Or_PackerFareSeep);
-        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Sound_Transitions);
+        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Notch_Therapeutic);
         //换图
      //   OldBG.GetComponent<Image>().sprite = Resources.Load<Sprite>(CSoviet.SScTex_TileFishBG + (oldTankIndex + 1) + CSoviet.ScTex_TileFishBG + (oldTankIndex + 1));
         //OldBG.GetComponent<Image>().material = null;
@@ -301,7 +301,7 @@ public class FareAbsence : MonoBehaviour
             //新购买的鱼
             AmateurFlu.Add("num", "1");
             fish.GetComponent<FareGive>().WetOvertax(AmateurFlu);
-            ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Sound_BuyFishInTank);
+            ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Notch_PayFareOnSeep);
             JuryFare(fish,() =>
             {
                 fish.GetComponent<FareGive>().Physician = -1;

@@ -51,7 +51,7 @@ public class MoteUIDrape : MonoBehaviour
             {
                 chile.GetComponent<Button>().onClick.AddListener(() => {
 
-                    ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Sound_UIButton);
+                    ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Notch_UIInform);
                 });
             }
             
@@ -73,7 +73,7 @@ public class MoteUIDrape : MonoBehaviour
         }
         if (_JawboneUITern.UIDrape_Tern == UIFormType.PopUp)
         {
-            ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Sound_PopShow);
+            ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Notch_PitHeel);
             //动画添加
             switch (_JawboneUITern.UIWish_IntensityTern)
             {
@@ -104,7 +104,7 @@ public class MoteUIDrape : MonoBehaviour
         }
         if (_JawboneUITern.UIDrape_Tern == UIFormType.PopUp)
         {
-            ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Sound_PopShow);
+            ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Notch_PitHeel);
             //动画添加
             switch (_JawboneUITern.UIWish_IntensityTern)
             {

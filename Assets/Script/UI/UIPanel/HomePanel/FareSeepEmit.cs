@@ -15,7 +15,7 @@ public class FareSeepEmit : MonoBehaviour
     
     private void OnEnable()
     {
-        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Sound_FishShopShow);
+        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Notch_FareOntoHeel);
         UIAbsence.KeaTextural().DamKrill(GetType().Name);
         //换图
         //BG.GetComponent<Image>().sprite = Resources

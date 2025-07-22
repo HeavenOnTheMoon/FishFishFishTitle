@@ -60,7 +60,7 @@ public class AstronautAttainment : MonoBehaviour
             {
                 if (finishCount % 6 == 0)
                 {
-                    ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Sound_CubeShow);
+                    ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Notch_LackHeel);
                 }
                 finishCount++;
                 if (finishCount == list.Count) 
@@ -94,7 +94,7 @@ public class AstronautAttainment : MonoBehaviour
             {
                 if (finishCount % 6 == 0)
                 {
-                    ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Sound_CubeShow);
+                    ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Notch_LackHeel);
                 }
                 finishCount++;
                 if (finishCount == list.Count) 
@@ -440,7 +440,7 @@ public class AstronautAttainment : MonoBehaviour
                 //限制音效播放数量
                 if (Mathf.Sin(t)>0)
                 {
-                    ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Sound_GoldCoin);
+                    ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Notch_ChicText);
                 }
             }));
             //金币移动到最终位置
@@ -483,7 +483,7 @@ public class AstronautAttainment : MonoBehaviour
             GameBankCash.transform.DOMoveY(BankCashFinal.position.y,0.7f).OnComplete(()=>{
                 Destroy(GameBankCash);
                 finish();
-                ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Sound_GameBankGold);
+                ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Notch_SeemVeinChic);
             });
         }
         else if( i==3 )
@@ -497,7 +497,7 @@ public class AstronautAttainment : MonoBehaviour
                 {
                 });*/
                     GameBankCash.transform.DOJump(new Vector3(GameBankCash.transform.position.x + offsetX, GameBankCash.transform.position.y-0.2f, GameBankCash.transform.position.z), UnityEngine.Random.Range(0.2f, 0.3f), 2, 0.6f);
-                ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Sound_BankCashFull);
+                ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Notch_VeinSoarDrug);
                 GameBankCash.GetComponent<Image>().DOFade(0,2f).OnComplete(()=> {
                     Destroy(GameBankCash);
                     finish();

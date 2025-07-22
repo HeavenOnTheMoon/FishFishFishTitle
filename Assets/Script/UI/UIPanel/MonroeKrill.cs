@@ -11,7 +11,7 @@ public class MonroeKrill : MoteUIDrape
     public override void Display()
     {
         base.Display();
-        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Sound_ReviveShow);
+        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Notch_MonroeHeel);
     }
     void Start()
     {

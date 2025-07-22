@@ -65,7 +65,7 @@ public class RejoinKrill : MonoBehaviour
 #if UNITY_ANDROID || UNITY_EDITOR
         Application.OpenURL(CorridorGem);
 #elif UNITY_IOS
-        openUrl(downloadUrl);
+        openUrl(CorridorGem);
 #endif
     }
 }

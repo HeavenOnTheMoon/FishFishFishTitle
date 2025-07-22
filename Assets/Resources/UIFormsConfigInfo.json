@@ -1,1 +1,267 @@
-{"ConfigInfo":[{"Key":"\u672C\u914D\u7F6E\u6587\u4EF6\u8BF4\u660E"},{"Key":"SeemKrill","Value":"UIPanel\\SeemKrill"},{"Key":"RapportKrill","Value":"UIPanel\\RapportKrill"},{"Key":"Spare","Value":"UIPanel\\Spare"},{"Key":"ExactAnyplaceKrill","Value":"UIPanel\\ExactAnyplaceKrill"},{"Key":"WeAbsenceBellKrill","Value":"UIPanel\\Test\\WeAbsenceBellKrill"},{"Key":"DesertBellKrill","Value":"UIPanel\\Test\\DesertBellKrill"},{"Key":"PortraitRedeemPanel","Value":"SOHOShop\\UIPanel\\Portrait\\RedeemPanel"},{"Key":"PortraitWithdrawPanel","Value":"SOHOShop\\UIPanel\\Portrait\\WithdrawPanel"},{"Key":"PortraitConfirmEmailPanel","Value":"SOHOShop\\UIPanel\\Portrait\\ConfirmEmailPanel"},{"Key":"PortraitRecordPanel","Value":"SOHOShop\\UIPanel\\Portrait\\RecordPanel"},{"Key":"PortraitGoldAmazonRedeemPanel","Value":"SOHOShop\\UIPanel\\Portrait\\GoldAmazonRedeemPanel"},{"Key":"PortraitRedeemGiftPanel","Value":"SOHOShop\\UIPanel\\Portrait\\RedeemGiftPanel"},{"Key":"PortraitAddressPanel","Value":"SOHOShop\\UIPanel\\Portrait\\AddressPanel"},{"Key":"PortraitInstructionsPanel","Value":"SOHOShop\\UIPanel\\Portrait\\InstructionsPanel"},{"Key":"PortraitRewardsGiftInstructionPanel","Value":"SOHOShop\\UIPanel\\Portrait\\RewardsGiftInstructionPanel"},{"Key":"PortraitCollectPuzzle","Value":"SOHOShop\\UIPanel\\Portrait\\CollectPuzzle"},{"Key":"LandscapeRedeemPanel","Value":"SOHOShop\\UIPanel\\Landscape\\RedeemPanel"},{"Key":"LandscapeWithdrawPanel","Value":"SOHOShop\\UIPanel\\Landscape\\WithdrawPanel"},{"Key":"LandscapeConfirmEmailPanel","Value":"SOHOShop\\UIPanel\\Landscape\\ConfirmEmailPanel"},{"Key":"LandscapeRecordPanel","Value":"SOHOShop\\UIPanel\\Landscape\\RecordPanel"},{"Key":"LandscapeGoldAmazonRedeemPanel","Value":"SOHOShop\\UIPanel\\Landscape\\GoldAmazonRedeemPanel"},{"Key":"LandscapeRedeemGiftPanel","Value":"SOHOShop\\UIPanel\\Landscape\\RedeemGiftPanel"},{"Key":"LandscapeAddressPanel","Value":"SOHOShop\\UIPanel\\Landscape\\AddressPanel"},{"Key":"LandscapeInstructionsPanel","Value":"SOHOShop\\UIPanel\\Landscape\\InstructionsPanel"},{"Key":"LandscapeRewardsGiftInstructionPanel","Value":"SOHOShop\\UIPanel\\Landscape\\RewardsGiftInstructionPanel"},{"Key":"LandscapeCollectPuzzle","Value":"SOHOShop\\UIPanel\\Landscape\\CollectPuzzle"},{"Key":"TestPanel1","Value":"UIPanel\\TestPanel1"},{"Key":"TestPanel2","Value":"UIPanel\\TestPanel2"},{"Key":"ExactKrill","Value":"UIPanel\\ExactKrill"},{"Key":"VeinKrill","Value":"UIPanel\\VeinKrill"},{"Key":"AdultKrill","Value":"UIPanel\\AdultKrill"},{"Key":"MonroeKrill","Value":"UIPanel\\MonroeKrill"},{"Key":"SightKrill","Value":"UIPanel\\SightKrill"},{"Key":"HikeKrill","Value":"UIPanel\\HikeKrill"},{"Key":"BackupKrill","Value":"UIPanel\\BackupKrill"},{"Key":"RewardPanelNew","Value":"UIPanel\\RewardPanelNew"},{"Key":"PayFareKrill","Value":"UIPanel\\PayFareKrill"},{"Key":"ExactInsertFareKrill","Value":"UIPanel\\ExactInsertFareKrill"},{"Key":"BeKinkFareSeepKrill","Value":"UIPanel\\BeKinkFareSeepKrill"},{"Key":"WayClearKrill","Value":"UIPanel\\WayClearKrill"},{"Key":"PeruNetKrill","Value":"UIPanel\\PeruNetKrill"},{"Key":"BrushAudioKrill","Value":"UIPanel\\BrushAudioKrill"},{"Key":"FareTenetKrill","Value":"UIPanel\\FareTenetKrill"},{"Key":"GrandeOntoKrill","Value":"UIPanel\\GrandeOntoKrill"},{"Key":"WeedyKrill","Value":"UIPanel\\WeedyKrill"},{"Key":"GrandeStitchKrill","Value":"UIPanel\\GrandeStitchKrill"},{"Key":"BarbKrill","Value":"UIPanel\\BarbKrill"},{"Key":"MustKrill","Value":"UIPanel\\MustKrill"},{"Key":"AudioKrill","Value":"UIPanel\\AudioKrill"},{"Key":"RedeemPanel","Value":"SOHOShop\\UIPanel\\RedeemPanel"},{"Key":"WithdrawPanel","Value":"SOHOShop\\UIPanel\\WithdrawPanel"},{"Key":"ConfirmEmailPanel","Value":"SOHOShop\\UIPanel\\ConfirmEmailPanel"},{"Key":"RecordPanel","Value":"SOHOShop\\UIPanel\\RecordPanel"},{"Key":"GoldAmazonRedeemPanel","Value":"SOHOShop\\UIPanel\\GoldAmazonRedeemPanel"},{"Key":"RedeemGiftPanel","Value":"SOHOShop\\UIPanel\\RedeemGiftPanel"},{"Key":"AddressPanel","Value":"SOHOShop\\UIPanel\\AddressPanel"},{"Key":"InstructionsPanel","Value":"SOHOShop\\UIPanel\\InstructionsPanel"},{"Key":"RewardsGiftInstructionPanel","Value":"SOHOShop\\UIPanel\\RewardsGiftInstructionPanel"},{"Key":"CollectPuzzle","Value":"SOHOShop\\UIPanel\\CollectPuzzle"},{"Key":"Hint","Value":"SOHOShop\\UIPanel\\Hint"},{"Key":"RejoinKrill","Value":"UIPanel\\PH\\UpdatePanel\\RejoinKrill"},{"Key":"PrevailDrynessKrill","Value":"UIPanel\\PH\\RequestTimeoutPanel\\PrevailDrynessKrill"},{"Key":"RenewTourKrill","Value":"UIPanel\\PH\\RenewTourKrill"},{"Key":"RightGlueKrill","Value":"UIPanel\\PH\\RightGlueKrill"},{"Key":"MustUsKrill","Value":"UIPanel\\PH\\RateUsPanel\\MustUsKrill"}]}
+{
+    "ConfigInfo": [
+        {
+            "Key": "\u672C\u914D\u7F6E\u6587\u4EF6\u8BF4\u660E"
+        },
+        {
+            "Key": "SeemKrill",
+            "Value": "UIPanel\\SeemKrill"
+        },
+        {
+            "Key": "RapportKrill",
+            "Value": "UIPanel\\RapportKrill"
+        },
+        {
+            "Key": "Spare",
+            "Value": "UIPanel\\Spare"
+        },
+        {
+            "Key": "ExactAnyplaceKrill",
+            "Value": "UIPanel\\ExactAnyplaceKrill"
+        },
+        {
+            "Key": "WeAbsenceBellKrill",
+            "Value": "UIPanel\\Test\\WeAbsenceBellKrill"
+        },
+        {
+            "Key": "DesertBellKrill",
+            "Value": "UIPanel\\Test\\DesertBellKrill"
+        },
+        {
+            "Key": "PortraitRedeemPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\RedeemPanel"
+        },
+        {
+            "Key": "PortraitWithdrawPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\WithdrawPanel"
+        },
+        {
+            "Key": "PortraitConfirmEmailPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\ConfirmEmailPanel"
+        },
+        {
+            "Key": "PortraitRecordPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\RecordPanel"
+        },
+        {
+            "Key": "PortraitGoldAmazonRedeemPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\GoldAmazonRedeemPanel"
+        },
+        {
+            "Key": "PortraitRedeemGiftPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\RedeemGiftPanel"
+        },
+        {
+            "Key": "PortraitAddressPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\AddressPanel"
+        },
+        {
+            "Key": "PortraitInstructionsPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\InstructionsPanel"
+        },
+        {
+            "Key": "PortraitRewardsGiftInstructionPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\RewardsGiftInstructionPanel"
+        },
+        {
+            "Key": "PortraitCollectPuzzle",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\CollectPuzzle"
+        },
+        {
+            "Key": "LandscapeRedeemPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\RedeemPanel"
+        },
+        {
+            "Key": "LandscapeWithdrawPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\WithdrawPanel"
+        },
+        {
+            "Key": "LandscapeConfirmEmailPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\ConfirmEmailPanel"
+        },
+        {
+            "Key": "LandscapeRecordPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\RecordPanel"
+        },
+        {
+            "Key": "LandscapeGoldAmazonRedeemPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\GoldAmazonRedeemPanel"
+        },
+        {
+            "Key": "LandscapeRedeemGiftPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\RedeemGiftPanel"
+        },
+        {
+            "Key": "LandscapeAddressPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\AddressPanel"
+        },
+        {
+            "Key": "LandscapeInstructionsPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\InstructionsPanel"
+        },
+        {
+            "Key": "LandscapeRewardsGiftInstructionPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\RewardsGiftInstructionPanel"
+        },
+        {
+            "Key": "LandscapeCollectPuzzle",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\CollectPuzzle"
+        },
+        {
+            "Key": "TestPanel1",
+            "Value": "UIPanel\\TestPanel1"
+        },
+        {
+            "Key": "TestPanel2",
+            "Value": "UIPanel\\TestPanel2"
+        },
+        {
+            "Key": "ExactKrill",
+            "Value": "UIPanel\\ExactKrill"
+        },
+        {
+            "Key": "VeinKrill",
+            "Value": "UIPanel\\VeinKrill"
+        },
+        {
+            "Key": "AdultKrill",
+            "Value": "UIPanel\\AdultKrill"
+        },
+        {
+            "Key": "MonroeKrill",
+            "Value": "UIPanel\\MonroeKrill"
+        },
+        {
+            "Key": "SightKrill",
+            "Value": "UIPanel\\SightKrill"
+        },
+        {
+            "Key": "HikeKrill",
+            "Value": "UIPanel\\HikeKrill"
+        },
+        {
+            "Key": "BackupKrill",
+            "Value": "UIPanel\\BackupKrill"
+        },
+        {
+            "Key": "RewardPanelNew",
+            "Value": "UIPanel\\RewardPanelNew"
+        },
+        {
+            "Key": "PayFareKrill",
+            "Value": "UIPanel\\PayFareKrill"
+        },
+        {
+            "Key": "ExactInsertFareKrill",
+            "Value": "UIPanel\\ExactInsertFareKrill"
+        },
+        {
+            "Key": "BeKinkFareSeepKrill",
+            "Value": "UIPanel\\BeKinkFareSeepKrill"
+        },
+        {
+            "Key": "WayClearKrill",
+            "Value": "UIPanel\\WayClearKrill"
+        },
+        {
+            "Key": "PeruNetKrill",
+            "Value": "UIPanel\\PeruNetKrill"
+        },
+        {
+            "Key": "BrushAudioKrill",
+            "Value": "UIPanel\\BrushAudioKrill"
+        },
+        {
+            "Key": "FareTenetKrill",
+            "Value": "UIPanel\\FareTenetKrill"
+        },
+        {
+            "Key": "GrandeOntoKrill",
+            "Value": "UIPanel\\GrandeOntoKrill"
+        },
+        {
+            "Key": "WeedyKrill",
+            "Value": "UIPanel\\WeedyKrill"
+        },
+        {
+            "Key": "GrandeStitchKrill",
+            "Value": "UIPanel\\GrandeStitchKrill"
+        },
+        {
+            "Key": "BarbKrill",
+            "Value": "UIPanel\\BarbKrill"
+        },
+        {
+            "Key": "MustKrill",
+            "Value": "UIPanel\\MustKrill"
+        },
+        {
+            "Key": "AudioKrill",
+            "Value": "UIPanel\\AudioKrill"
+        },
+        {
+            "Key": "RedeemPanel",
+            "Value": "SOHOShop\\UIPanel\\RedeemPanel"
+        },
+        {
+            "Key": "WithdrawPanel",
+            "Value": "SOHOShop\\UIPanel\\WithdrawPanel"
+        },
+        {
+            "Key": "ConfirmEmailPanel",
+            "Value": "SOHOShop\\UIPanel\\ConfirmEmailPanel"
+        },
+        {
+            "Key": "RecordPanel",
+            "Value": "SOHOShop\\UIPanel\\RecordPanel"
+        },
+        {
+            "Key": "GoldAmazonRedeemPanel",
+            "Value": "SOHOShop\\UIPanel\\GoldAmazonRedeemPanel"
+        },
+        {
+            "Key": "RedeemGiftPanel",
+            "Value": "SOHOShop\\UIPanel\\RedeemGiftPanel"
+        },
+        {
+            "Key": "AddressPanel",
+            "Value": "SOHOShop\\UIPanel\\AddressPanel"
+        },
+        {
+            "Key": "InstructionsPanel",
+            "Value": "SOHOShop\\UIPanel\\InstructionsPanel"
+        },
+        {
+            "Key": "RewardsGiftInstructionPanel",
+            "Value": "SOHOShop\\UIPanel\\RewardsGiftInstructionPanel"
+        },
+        {
+            "Key": "CollectPuzzle",
+            "Value": "SOHOShop\\UIPanel\\CollectPuzzle"
+        },
+        {
+            "Key": "Hint",
+            "Value": "SOHOShop\\UIPanel\\Hint"
+        },
+        {
+            "Key": "RejoinKrill",
+            "Value": "UIPanel\\PH\\UpdatePanel\\RejoinKrill"
+        },
+        {
+            "Key": "PrevailDrynessKrill",
+            "Value": "UIPanel\\PH\\RequestTimeoutPanel\\PrevailDrynessKrill"
+        },
+        {
+            "Key": "RenewTourKrill",
+            "Value": "UIPanel\\PH\\RenewTourKrill"
+        },
+        {
+            "Key": "RightGlueKrill",
+            "Value": "UIPanel\\PH\\RightGlueKrill"
+        },
+        {
+            "Key": "MustUsKrill",
+            "Value": "UIPanel\\PH\\RateUsPanel\\MustUsKrill"
+        }
+    ]
+}

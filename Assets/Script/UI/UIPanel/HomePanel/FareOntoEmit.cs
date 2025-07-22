@@ -14,7 +14,7 @@ public class FareOntoEmit : MonoBehaviour
     GameData AnewTwig;
     private void OnEnable()
     {
-        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Sound_FishShopShow);
+        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Notch_FareOntoHeel);
         UIAbsence.KeaTextural().DamKrill(GetType().Name);
         QuasarWall.GetComponent<CanvasGroup>().alpha = 0;
         QuasarWall.transform.position = new Vector3(QuasarWall.transform.position.x, QuasarWall.transform.position.y - FareHeelNephew, QuasarWall.transform.position.z);

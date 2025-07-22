@@ -100,7 +100,7 @@ public class BackupKrill : MoteUIDrape
                     Destroy(Fx_Power);
                 });
             }
-            ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Sound_HomeGold);
+            ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Notch_HikeChic);
         
         });
 

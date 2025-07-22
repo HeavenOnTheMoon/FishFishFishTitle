@@ -105,7 +105,7 @@ public class Seem : MonoBehaviour
 
         TreeTwigAbsence.SetIntArray(CSoviet.Or_InsertFareSeepForm, unlockFishTankList.ToArray());
         GrayExactHeelSupply = TieGlueExact();
-        ThereOil.KeaTextural().BeerMy(ThereTern.UIMusic.Sound_TileFishBGM);
+        ThereOil.KeaTextural().BeerMy(ThereTern.UIMusic.Notch_MailFareBGM);
         ApartAsset();
 
         // 上报奖励事件 - 每日首次打开app
@@ -672,7 +672,8 @@ public class Seem : MonoBehaviour
             ApartAbsorb.GetComponent<ExactBeer>().AnyStump = true;
             if (!GameUtil.IsApple() && (!PlayerPrefs.HasKey(CSoviet.Or_Error_News + "Bool") || !TreeTwigAbsence.GetBool(CSoviet.Or_Error_News)))
             {
-                UIAbsence.KeaTextural().HeelUIDrape(nameof(MustKrill));
+                //UIAbsence.KeaTextural().HeelUIDrape(nameof(MustKrill));
+                MustByPool.Textural.WifeMustByKrill();
             }
         });
         ApartAbsorb.gameObject.SetActive(true);

@@ -49,7 +49,7 @@ public class BackupPistonFlavin : MonoBehaviour
             if (AmateurFlu["type"] == "Gold")
             {
                 //Destroy(getButton.gameObject);
-                ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Sound_HomeGold);
+                ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Notch_HikeChic);
                 List<int> FishGoldList = new List<int>(TreeTwigAbsence.GetIntArray(CSoviet.Or_FarePastChicTreat));
                 Seem.instance.RidChic(FishGoldList[0]);
                 FishGoldList.RemoveAt(0);
@@ -59,7 +59,7 @@ public class BackupPistonFlavin : MonoBehaviour
             else if (AmateurFlu["type"] == "Cash")
             {
                 //Destroy(getButton.gameObject);
-                ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Sound_HomeGold);
+                ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Notch_HikeChic);
                 List<float> FishCashList = new List<float>(TreeTwigAbsence.GetFloatArray(CSoviet.Or_FarePastSoarTreat));
                 Seem.instance.RidSoar(FishCashList[0]);
                 FishCashList.RemoveAt(0);

@@ -96,7 +96,7 @@ public class ExactAnyplaceKrill : MoteUIDrape
         StartCoroutine(VinePloyWriteDown());
         Unrecognizable();
         Beer();
-        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Sound_LevelComplete);
+        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Notch_ExactAnyplace);
         ADInform.gameObject.SetActive(true);
 
         if (AnTarGlue())

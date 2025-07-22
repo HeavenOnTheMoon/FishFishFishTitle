@@ -145,7 +145,7 @@ public class ExactInsertFareKrill : MoteUIDrape
                 Pry.AppendCallback(() =>
                 {
                     int Calve= count - startLevelNum + 1;
-                    ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Sound_LevelUp);
+                    ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Notch_ExactOr);
                     AstronautAttainment.ExactInsertIConUtter(ExactWhigForm[Calve], ApartWhigInsert, ExactWhigForm[Calve].transform.Find("Text").GetComponent<Text>(), () =>
                     {
 
@@ -258,7 +258,7 @@ public class ExactInsertFareKrill : MoteUIDrape
                     FarePistonMouse.transform.DOScaleY(0.85f, 0.2f);
                     FarePistonMouse.transform.DOScaleX(1.15f, 0.2f).OnComplete(() => 
                     {
-                        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Sound_UnlockFish);
+                        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Notch_InsertFare);
                         //关闭弹窗
                         It_InsertFare.SetActive(false);
                         StarkUIWish(GetType().Name);

@@ -70,9 +70,7 @@ public class PHTide
     // 毫秒时间戳
     public static long JawboneOval()
     {
-        DateTime XenonPloy= TimeZone.CurrentTimeZone.ToLocalTime(new DateTime(1970, 1, 1)); // 当地时区
-        long timeStamp = (long)(DateTime.Now - XenonPloy).TotalMilliseconds; // 相差毫秒数
-        return timeStamp;
+        return DateTimeOffset.UtcNow.ToUnixTimeMilliseconds();
     }
 
 
@@ -151,13 +149,19 @@ public class PHTide
         return KeaEarthworm(DateTime.Now);
     }
 
-    public static long KeaEarthworm(DateTime datetime)
+    public static long KeaEarthworm(DateTime dateTime)
     {
-        DateTime XenonPloy= TimeZone.CurrentTimeZone.ToLocalTime(new DateTime(1970, 1, 1)); // 当地时区
-        long timeStamp = (long)(datetime - XenonPloy).TotalMilliseconds; // 相差毫秒数
+        DateTime epoch = new DateTime(1970, 1, 1, 0, 0, 0, DateTimeKind.Utc);
+
+        // 确保传入的 DateTime 是 UTC 时间，否则可能会有时区问题
+        if (dateTime.Kind != DateTimeKind.Utc)
+        {
+            dateTime = dateTime.ToUniversalTime(); // 转换为 UTC
+        }
+        TimeSpan elapsedTime = dateTime - epoch;
+        long timeStamp = (long)elapsedTime.TotalSeconds; // 秒级时间戳
         return timeStamp / 1000;
     }
-
     public static BoxModel ScubaGemEncase(string url)
     {
         if (string.IsNullOrEmpty(url))

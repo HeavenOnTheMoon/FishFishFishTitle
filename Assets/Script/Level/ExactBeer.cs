@@ -190,7 +190,7 @@ public class ExactBeer : MonoBehaviour
             }
         }
 
-        ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Sound_TouchCube);
+        ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Notch_StumpLack);
 
         GetComponent<ExactOmitAbsorb>().ScriptMailRebirth(tile.GetComponent<MailSuck>().Luck);
         tile.GetComponent<MailSuck>().Luck.diff_layer = "-1";
@@ -259,7 +259,7 @@ public class ExactBeer : MonoBehaviour
             LipidSowPool.Textural.CornBackupLipid(1404, "game_clear_up_3_1404");
             NinetyBrace = 0;
         }
-        ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Sound_MergeDisapper);
+        ThereOil.KeaTextural().BeerAlbedo(ThereTern.SceneMusic.Notch_PulseAnalysis);
         //动画:消除
         AstronautAttainment.LackPulseMat(anmList,()=> {
             Transform position = list[0].transform;

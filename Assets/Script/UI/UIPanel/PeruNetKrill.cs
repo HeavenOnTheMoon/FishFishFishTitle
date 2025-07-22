@@ -150,7 +150,7 @@ public class PeruNetKrill : MoteUIDrape
         //EndTF[index].transform.Find("Text").GetComponent<Text>().text = fishData.Name;
         //CardList.Add(EndTF[index]);
 
-        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Sound_OpenStarBox);
+        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Notch_WifePeruNet);
         AstronautAttainment.PeruNetGive(PeruNet, 1, It_PeruNetWife, () =>
         {
             AstronautAttainment.PeruNetBackupHeel(JazzForm, JazzForm.Count, () =>

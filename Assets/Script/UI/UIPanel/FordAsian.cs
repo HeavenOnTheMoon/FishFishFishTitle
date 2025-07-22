@@ -35,7 +35,7 @@ public class FordAsian : MonoBehaviour
 
     public void Cone(int index, Action<int> finish)
     {
-        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Sound_OneArmBandit);
+        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Notch_DayBegManual);
         AstronautAttainment.BitternessQuasar(DustAsian, -(GenuPosit * 2 + GenuPosit * TugTourOil.instance.DustTwig.slot_group.Count * 3 + GenuPosit * (index + 1)), () =>
         {
             finish?.Invoke(TugTourOil.instance.DustTwig.slot_group[index].multi);

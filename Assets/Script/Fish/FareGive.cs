@@ -93,7 +93,7 @@ public class FareGive : MonoBehaviour
     }
     public void RepeatBackup()
     {
-        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Sound_FishRewardShow);
+        ThereOil.KeaTextural().BeerAlbedo(ThereTern.UIMusic.Notch_FareBackupHeel);
         FareAbsence.instance.FareMakeBackup(gameObject,AmateurFlu);
         AmateurFlu = null;
         QuartzRainerX = 0;
